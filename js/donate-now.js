@@ -18,6 +18,8 @@ document
 
     const totalAmount = noakhaliAmountValue + noakhaliFormValue;
 
+    document.getElementById("my_modal_1").showModal();
+
 
 
     const noakhaliTitle = document.getElementById("noakhali-title").innerText;
@@ -70,6 +72,8 @@ document
     }
 
     const totalAmount = feniAmountValue + feniFormValue;
+    document.getElementById("my_modal_2").showModal();
+
 
     const feniTitle = document.getElementById("feni-title").innerText;
 
@@ -119,6 +123,8 @@ document
     }
 
     const totalAmount = quotaAmountValue + quotaFormValue;
+    document.getElementById("my_modal_3").showModal();
+
 
     const quotaTitle = document.getElementById("quota-title").innerText;
 
