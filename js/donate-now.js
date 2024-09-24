@@ -149,8 +149,21 @@ document
 
 
 
-  document
-  .getElementById("my_modal_1").addEventListener("click", function (event) {
-    event.preventDefault();
+//   document
+//   .getElementById("my_modal_1").addEventListener("click", function (event) {
+//     event.preventDefault();
     
-})
+// })
+
+// document
+//   .getElementById("noakhali-close").addEventListener("click", function (event) {
+//     event.preventDefault();
+//     document
+//     .getElementById("my_modal_1")
+//     .classList.add("hidden");
+   
+
+
+
+
+//   })
