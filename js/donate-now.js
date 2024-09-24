@@ -17,7 +17,8 @@ document
     }
 
     const totalAmount = noakhaliAmountValue + noakhaliFormValue;
-    // solid border-[1px] border-slate-200 rounded-lg p-8
+
+
 
     const noakhaliTitle = document.getElementById("noakhali-title").innerText;
 
@@ -145,3 +146,11 @@ document
     const totalInnerAmountValue = totalInnerAmount - quotaFormValue;
     document.getElementById("total-amount").innerText = totalInnerAmountValue;
   });
+
+
+
+  document
+//   .getElementById("my_modal_3").addEventListener("click", function (event) {
+//     event.preventDefault();
+    
+// })
