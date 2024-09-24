@@ -150,7 +150,7 @@ document
 
 
   document
-//   .getElementById("my_modal_3").addEventListener("click", function (event) {
-//     event.preventDefault();
+  .getElementById("my_modal_1").addEventListener("click", function (event) {
+    event.preventDefault();
     
-// })
+})
